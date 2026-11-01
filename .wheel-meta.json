@@ -1,0 +1,22 @@
+{
+  "wheel_id": 609,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersydney-152",
+  "project": "mortgage-broker-sydney-common-mistakes-fc319f7e2153bdbe57552595",
+  "parent_t1_ref": "homeloanbrokersydney-010",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokersydney.com.au",
+  "primary_kw": "mortgage broker sydney common mistakes",
+  "intended_url": "https://sitesau.github.io/homeloanbrokersydney-152/",
+  "tier": "T2",
+  "writeback_nonce": "3a9e4238de3881ae",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-sydney-010/",
+      "anchor": "Mortgage Broker Sydney: For Borrower Decisions",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
